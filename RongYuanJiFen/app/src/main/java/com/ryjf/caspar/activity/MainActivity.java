@@ -1,7 +1,9 @@
-package com.ryjf.caspar;
+package com.ryjf.caspar.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.ryjf.caspar.R;
 
 public class MainActivity extends AppCompatActivity {
 
